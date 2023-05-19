@@ -4,9 +4,7 @@
   "description": "Shadowban People from Discord",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^12.5.3",
-    "dotenv": "^9.0.2",
-    "enve": "^1.0.4"
+    "discord.js": "^12.5.3"
   },
   "devDependencies": {
     "eslint": "^7.26.0",
@@ -17,6 +15,7 @@
     "eslint-plugin-standard": "^4.1.0"
   },
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
