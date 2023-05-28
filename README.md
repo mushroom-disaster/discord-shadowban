@@ -15,7 +15,7 @@ There are two files called config.example.json and users.example.json. Copy both
 ## Invite link:
 Go to your bot application and paste the client ID for your bot in this link to get the invite link
 
-https://discordapp.com/api/oauth2/authorize?clientid=`client id`&permissions=73728&scope=bot
+`https://discordapp.com/api/oauth2/authorize?clientid=<YOUR-CLIENT-ID-HERE>&permissions=73728&scope=bot`
 
 Permissions:
 Manage Messages and Read Message History
